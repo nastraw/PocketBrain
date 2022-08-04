@@ -1,6 +1,6 @@
 ﻿namespace SecondBrain.Data.Models;
 
-internal class Status
+public class Status
 {
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
