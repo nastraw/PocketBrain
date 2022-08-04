@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SKpwrHjWkfcK02E9tD/vp9slrltWuvXkKa/RED6vRcq+smMhAKTxtOOETVJEzUPfUUPJP3cmW16XJitllRGcw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\natha\\Projects\\Second Brain\\SecondBrain - Blazor Practice\\SecondBrainV1\\SecondBrain\\SecondBrain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Azure.Containers.Tools.Targets. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
